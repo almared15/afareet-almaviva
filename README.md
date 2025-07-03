@@ -1,5 +1,5 @@
-# afareet-almavivabody {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+# afareet-almavivabody 
+{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #f2f2f2;
   margin: 0;
   padding: 0;
